@@ -1,0 +1,11 @@
+{
+  "name": "midi-phrase-player",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "node -e \"console.log('typecheck scaffold')\"",
+    "test": "node -e \"console.log('test scaffold')\"",
+    "build": "node -e \"console.log('build scaffold')\""
+  }
+}
